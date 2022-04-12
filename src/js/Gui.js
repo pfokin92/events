@@ -2,8 +2,8 @@ import getPosition from './getPosition';
 
 export default class Gui {
   constructor() {
-    this.img = document.images[0];
-    this.wrap = document.getElementsByClassName('wrapper')[0];
+    [this.img] = document.images;
+    [this.wrap] = document.getElementsByClassName('wrapper');
     this.header = document.getElementById('header_state');
     this.successful = document.getElementById('score_successful');
     this.unsuccessful = document.getElementById('score_unsuccessful');

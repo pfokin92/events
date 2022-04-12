@@ -1,9 +1,8 @@
 # Домашнее задание по лекции DOM
 
-https://pfokin92.github.io/ahj_dom/
+https://pfokin92.github.io/events/
 
-[![Build status](https://ci.appveyor.com/api/projects/status/n1hthkeyolw52ndl?svg=true)](https://ci.appveyor.com/project/pfokin92/ahj-dom)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/0h5yis62l7s3yirn?svg=true)](https://ci.appveyor.com/project/pfokin92/events)
 
 
 
